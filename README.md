@@ -7,4 +7,6 @@
 
 ## L página deberá de verse como se muestra a continuacón
 ### Desktop
-![Responsive-Desktop](assets/docs/foro-opinion.jpg)
+![Desktop](assets/docs/foro-opinion.jpg)
+![Desktop](assets/docs/foro-opinion1.JPG)
+![Desktop](assets/docs/foro-opinion2.JPG)
