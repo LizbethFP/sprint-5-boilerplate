@@ -1,5 +1,60 @@
 /* Clases reutilizables */
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: #DBF2F2;
+}
 
+header nav {
+  background-color: #67F2F1!important;
+}
+
+footer {
+  background-color: #5CF1DE;
+}
+
+/* Helpers */
+.btn-style {
+  color: #fff;
+  background-color: #FE87A2;
+  border-color: #FE87A2;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  border-radius: .25rem;
+}
+
+.btn-style:hover {
+  background-color: #FE9CB2;
+  border-color: #FE9CB2;
+}
+
+.box-shadow {
+  box-shadow:  13px 13px 45px -4px rgba(0,0,0,0.39);
+  background-color: #fafafa;
+}
+
+.sm-ltr-spacing {
+  letter-spacing: 0.5px;
+}
+
+.bgr-ltr-spacing {
+  letter-spacing: 1px;
+}
+
+.dark-ltr {
+  color: #272F36!important;
+}
+
+.jade-ltr {
+  color: #4CC6B6;
+}
+
+.jade-ltr:hover {
+  color: #67F2F1;
+  text-decoration: none;
+}
 
 /* Clases específicas */
 header nav a {
